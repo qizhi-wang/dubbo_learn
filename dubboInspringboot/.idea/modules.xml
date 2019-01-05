@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-spring/consumer-spring.iml" filepath="$PROJECT_DIR$/consumer-spring/consumer-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbootlean.iml" filepath="$PROJECT_DIR$/.idea/springbootlean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wqz-producer/wqz-producer.iml" filepath="$PROJECT_DIR$/wqz-producer/wqz-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wqz.producer/wqz.producer.iml" filepath="$PROJECT_DIR$/wqz.producer/wqz.producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wqz.service/wqz.service.iml" filepath="$PROJECT_DIR$/wqz.service/wqz.service.iml" />
+    </modules>
+  </component>
+</project>
